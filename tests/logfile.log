@@ -1,0 +1,192 @@
+2021-09-11 16:10:31,547 :INFO : test_e2e :getting all the card titles
+2021-09-11 16:10:31,562 :INFO : test_e2e :iphone X
+2021-09-11 16:10:31,575 :INFO : test_e2e :Samsung Note 8
+2021-09-11 16:10:31,589 :INFO : test_e2e :Nokia Edge
+2021-09-11 16:10:31,602 :INFO : test_e2e :Blackberry
+2021-09-11 16:10:32,001 :INFO : test_e2e :Entering country name as ind
+2021-09-11 16:10:37,368 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-11 16:12:43,546 :INFO : test_PageSubmission :Name isAmrita
+2021-09-11 16:12:43,636 :INFO : test_PageSubmission :Email isDas@gmail.com
+2021-09-11 16:12:44,294 :INFO : test_PageSubmission :Name isAdhoksaja
+2021-09-11 16:12:44,294 :INFO : test_PageSubmission :Name isAdhoksaja
+2021-09-11 16:12:44,386 :INFO : test_PageSubmission :Email isaaa@mail.com
+2021-09-11 16:12:44,386 :INFO : test_PageSubmission :Email isaaa@mail.com
+2021-09-11 16:12:48,834 :INFO : test_e2e :getting all the card titles
+2021-09-11 16:12:48,850 :INFO : test_e2e :iphone X
+2021-09-11 16:12:48,863 :INFO : test_e2e :Samsung Note 8
+2021-09-11 16:12:48,876 :INFO : test_e2e :Nokia Edge
+2021-09-11 16:12:48,889 :INFO : test_e2e :Blackberry
+2021-09-11 16:12:49,285 :INFO : test_e2e :Entering country name as ind
+2021-09-11 16:12:54,658 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-11 16:32:59,807 :INFO : test_PageSubmission :Name is Amrita
+2021-09-11 16:32:59,901 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-11 16:33:00,571 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 16:33:00,571 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 16:33:00,657 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 16:33:00,657 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 16:33:06,833 :INFO : test_e2e :getting all the card titles
+2021-09-11 16:33:06,848 :INFO : test_e2e :iphone X
+2021-09-11 16:33:06,861 :INFO : test_e2e :Samsung Note 8
+2021-09-11 16:33:06,874 :INFO : test_e2e :Nokia Edge
+2021-09-11 16:33:06,888 :INFO : test_e2e :Blackberry
+2021-09-11 16:33:07,295 :INFO : test_e2e :Entering country name as ind
+2021-09-11 16:33:12,677 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-11 16:43:16,988 :INFO : test_PageSubmission :Name is Amrita
+2021-09-11 16:43:17,074 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-11 16:43:17,747 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 16:43:17,747 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 16:43:17,837 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 16:43:17,837 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 16:43:22,673 :INFO : test_e2e :getting all the card titles
+2021-09-11 16:43:22,689 :INFO : test_e2e :iphone X
+2021-09-11 16:43:22,702 :INFO : test_e2e :Samsung Note 8
+2021-09-11 16:43:22,715 :INFO : test_e2e :Nokia Edge
+2021-09-11 16:43:22,728 :INFO : test_e2e :Blackberry
+2021-09-11 16:43:23,156 :INFO : test_e2e :Entering country name as ind
+2021-09-11 16:43:28,571 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-11 16:44:48,955 :INFO : test_PageSubmission :Name is Amrita
+2021-09-11 16:44:49,047 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-11 16:44:49,687 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 16:44:49,687 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 16:44:49,772 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 16:44:49,772 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 16:44:54,178 :INFO : test_e2e :getting all the card titles
+2021-09-11 16:44:54,194 :INFO : test_e2e :iphone X
+2021-09-11 16:44:54,207 :INFO : test_e2e :Samsung Note 8
+2021-09-11 16:44:54,220 :INFO : test_e2e :Nokia Edge
+2021-09-11 16:44:54,234 :INFO : test_e2e :Blackberry
+2021-09-11 16:44:54,667 :INFO : test_e2e :Entering country name as ind
+2021-09-11 16:45:00,045 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-11 16:46:31,950 :INFO : test_PageSubmission :Name is Amrita
+2021-09-11 16:46:32,034 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-11 16:46:32,658 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 16:46:32,658 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 16:46:32,743 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 16:46:32,743 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 16:46:37,309 :INFO : test_e2e :getting all the card titles
+2021-09-11 16:46:37,325 :INFO : test_e2e :iphone X
+2021-09-11 16:46:37,338 :INFO : test_e2e :Samsung Note 8
+2021-09-11 16:46:37,351 :INFO : test_e2e :Nokia Edge
+2021-09-11 16:46:37,364 :INFO : test_e2e :Blackberry
+2021-09-11 16:46:37,770 :INFO : test_e2e :Entering country name as ind
+2021-09-11 16:46:43,139 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-11 17:22:36,473 :INFO : test_PageSubmission :Name is Amrita
+2021-09-11 17:22:36,578 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-11 17:22:37,261 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 17:22:37,261 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 17:22:37,360 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 17:22:37,360 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 17:22:41,763 :INFO : test_e2e :getting all the card titles
+2021-09-11 17:22:41,778 :INFO : test_e2e :iphone X
+2021-09-11 17:22:41,793 :INFO : test_e2e :Samsung Note 8
+2021-09-11 17:22:41,807 :INFO : test_e2e :Nokia Edge
+2021-09-11 17:22:41,821 :INFO : test_e2e :Blackberry
+2021-09-11 17:22:42,281 :INFO : test_e2e :Entering country name as ind
+2021-09-11 17:22:47,697 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-11 17:27:25,454 :INFO : test_PageSubmission :Name is Amrita
+2021-09-11 17:27:25,544 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-11 17:27:26,197 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 17:27:26,197 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 17:27:26,286 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 17:27:26,286 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 17:27:30,724 :INFO : test_e2e :getting all the card titles
+2021-09-11 17:27:30,739 :INFO : test_e2e :iphone X
+2021-09-11 17:27:30,753 :INFO : test_e2e :Samsung Note 8
+2021-09-11 17:27:30,766 :INFO : test_e2e :Nokia Edge
+2021-09-11 17:27:30,779 :INFO : test_e2e :Blackberry
+2021-09-11 17:27:31,186 :INFO : test_e2e :Entering country name as ind
+2021-09-11 17:27:36,552 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-11 17:38:17,948 :INFO : test_PageSubmission :Name is Amrita
+2021-09-11 17:38:17,976 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-11 17:38:20,042 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 17:38:20,042 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 17:38:20,076 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 17:38:20,076 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 17:38:32,848 :INFO : test_e2e :getting all the card titles
+2021-09-11 17:38:32,859 :INFO : test_e2e :iphone X
+2021-09-11 17:38:32,867 :INFO : test_e2e :Samsung Note 8
+2021-09-11 17:38:32,875 :INFO : test_e2e :Nokia Edge
+2021-09-11 17:38:32,883 :INFO : test_e2e :Blackberry
+2021-09-11 17:38:33,748 :INFO : test_e2e :Entering country name as ind
+2021-09-11 17:38:39,696 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-11 17:40:57,983 :INFO : test_PageSubmission :Name is Amrita
+2021-09-11 17:40:58,016 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-11 17:41:00,053 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 17:41:00,053 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 17:41:00,076 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 17:41:00,076 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 17:41:11,208 :INFO : test_e2e :getting all the card titles
+2021-09-11 17:41:11,217 :INFO : test_e2e :iphone X
+2021-09-11 17:41:11,224 :INFO : test_e2e :Samsung Note 8
+2021-09-11 17:41:11,230 :INFO : test_e2e :Nokia Edge
+2021-09-11 17:41:11,237 :INFO : test_e2e :Blackberry
+2021-09-11 17:41:12,003 :INFO : test_e2e :Entering country name as ind
+2021-09-11 17:41:17,985 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-11 17:44:17,611 :INFO : test_PageSubmission :Name is Amrita
+2021-09-11 17:44:17,635 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-11 17:44:19,484 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 17:44:19,484 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-11 17:44:19,506 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 17:44:19,506 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-11 17:44:30,747 :INFO : test_e2e :getting all the card titles
+2021-09-11 17:44:30,755 :INFO : test_e2e :iphone X
+2021-09-11 17:44:30,761 :INFO : test_e2e :Samsung Note 8
+2021-09-11 17:44:30,768 :INFO : test_e2e :Nokia Edge
+2021-09-11 17:44:30,775 :INFO : test_e2e :Blackberry
+2021-09-11 17:44:31,571 :INFO : test_e2e :Entering country name as ind
+2021-09-11 17:44:37,526 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-12 16:25:53,108 :INFO : test_PageSubmission :Name is Amrita
+2021-09-12 16:25:53,138 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-12 16:25:59,643 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-12 16:25:59,643 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-12 16:25:59,670 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-12 16:25:59,670 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-12 16:26:26,644 :INFO : test_e2e :getting all the card titles
+2021-09-12 16:26:26,655 :INFO : test_e2e :iphone X
+2021-09-12 16:26:26,663 :INFO : test_e2e :Samsung Note 8
+2021-09-12 16:26:26,670 :INFO : test_e2e :Nokia Edge
+2021-09-12 16:26:26,677 :INFO : test_e2e :Blackberry
+2021-09-12 16:26:27,465 :INFO : test_e2e :Entering country name as ind
+2021-09-12 16:26:33,384 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-12 16:30:23,599 :INFO : test_PageSubmission :Name is Amrita
+2021-09-12 16:30:23,698 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-12 16:30:26,429 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-12 16:30:26,429 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-12 16:30:26,521 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-12 16:30:26,521 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-12 16:30:42,760 :INFO : test_e2e :getting all the card titles
+2021-09-12 16:30:42,775 :INFO : test_e2e :iphone X
+2021-09-12 16:30:42,789 :INFO : test_e2e :Samsung Note 8
+2021-09-12 16:30:42,803 :INFO : test_e2e :Nokia Edge
+2021-09-12 16:30:42,816 :INFO : test_e2e :Blackberry
+2021-09-12 16:30:43,234 :INFO : test_e2e :Entering country name as ind
+2021-09-12 16:30:48,628 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-12 16:46:28,474 :INFO : test_PageSubmission :Name is Amrita
+2021-09-12 16:46:28,572 :INFO : test_PageSubmission :Email is Das@gmail.com
+2021-09-12 16:46:29,565 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-12 16:46:29,565 :INFO : test_PageSubmission :Name is Adhoksaja
+2021-09-12 16:46:29,666 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-12 16:46:29,666 :INFO : test_PageSubmission :Email is aaa@mail.com
+2021-09-12 16:46:43,839 :INFO : test_e2e :getting all the card titles
+2021-09-12 16:46:43,853 :INFO : test_e2e :iphone X
+2021-09-12 16:46:43,867 :INFO : test_e2e :Samsung Note 8
+2021-09-12 16:46:43,881 :INFO : test_e2e :Nokia Edge
+2021-09-12 16:46:43,894 :INFO : test_e2e :Blackberry
+2021-09-12 16:46:44,353 :INFO : test_e2e :Entering country name as ind
+2021-09-12 16:46:49,743 :INFO : test_e2e :Text received from application is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-13 12:24:52,599 :INFO : test_PageSubmission :Name is Amrita
+2021-09-13 12:24:52,690 :INFO : test_PageSubmission :Email is Das@gmail.com
